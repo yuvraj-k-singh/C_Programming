@@ -12,7 +12,7 @@ int main()
 	scanf("%c", &value);
 	printf("The character entered by the user is %c and its ASCII value is %d\n", value, value);
 	
-	if(value>=97 && value<=122){
+	if(value>=97 && value<=122){kkk
 		printf("The value entered by the user is lower case!");
 	}
 	else{
