@@ -15,4 +15,3 @@ int main()
 	printf("The total number of hours is %d, and minutes is %d", hours, mins);
 	return 0;
 }
-
